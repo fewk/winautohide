@@ -1,12 +1,19 @@
 # winautohide
+
 让窗口在显示器边缘隐藏
+
+日常中我会在屏幕边上藏几个小工具，只要鼠标划过对应边缘即显示窗口并使用，十分便利。
 
 # 使用说明
 
 #### 声明
-- 这是 [AutoHotkey](http://www.autohotkey.com/) 脚本，使用其 Ahk2Exe 编译生成的.exe，误报毒什么的就自行裁决。
-- 如果你在用 AutoHotkey V2 下载 WinYinCang.ahk 运行即可。
-- 如果你在用 AutoHotkey V1 请看 [hzhbest@winautohide](https://github.com/hzhbest/winautohide) 的版本。
+- 这是 [AutoHotkey V2](http://www.autohotkey.com/) 脚本，使用其 Ahk2Exe 编译生成的.exe，误报毒什么的就自行裁决。
+- 如果已经在用 AutoHotkey V2.0 可下载 WinYinCang.ahk 运行，仅 4KB 左右。
+- 如果已在用 AutoHotkey V1.1 请看 [hzhbest@winautohide](https://github.com/hzhbest/winautohide) 的版本。
+- 感谢名单：
+	- [@scavin](https://github.com/scavin) 青蛙宣传了 @hzhbest 的版本我才知道可以这样玩。
+	- [@hzhbest](https://github.com/hzhbest)
+	- [@BoD](https://github.com/BoD) 
 
 ## 启用：
 
@@ -30,4 +37,3 @@
 
 - 我仅在 win11 使用，应该也兼容win10，其他的自行测试，能用就行
 - 多显示器未测试，自行测试。
--
